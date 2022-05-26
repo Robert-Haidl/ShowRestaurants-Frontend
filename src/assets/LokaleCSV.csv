@@ -1,0 +1,141 @@
+﻿index;name;category;price;taste;ambiente;service;impression;price_quality;carpark;address
+132.;Palmehaus;Cafe;;;;;6;6;;test
+133.;Heuer;Cafe;;;;;6;6;;
+134.;Th Bank;Cafe;;;;;6;6;;
+135.;Cafe Zentral;Cafe;;;;;6;6;;
+136.;Heiner;Cafe;;;;;6;6;;
+128.;Restaurant PAUL;Abend;;;;;6;6;;Johannesgasse 16, 1010 Wien
+117.;Gavaz;Eis;;;;;6;6;;Laxenburger Straße
+118.;Eis Greissler;Eis;;;;;6;6;;Mariahilfer Straße
+119.;Leones Gelato;Eis;;;;;6;6;;lange Gasse
+120.;Tuchlauben Eis;Eis;;;;;6;6;;
+121.;Veganista;Eis;;;;;6;6;;Neustiftasse
+122.;Tichy;Eis;;;;;6;6;;
+123.;Ferrari Gelato;Eis;;;;;6;6;;Annagasse
+124.;Gelateria La Romana;Eis;;;;;6;6;;Stiftgasse
+116.;Ramasuri;Brunch;;;;;6;6;;Praterstraße 19, 1020 Wien
+108.;Wolke;Abend;;;;;6;6;;Neubaugasse 34/8, 1070 Wien
+109.;Via Toledo Enopizzeria;Abend;;;;;6;6;;Laudongasse 13, 1080 Wien
+111.;Marina Restaurant;Abend;;;;;6;6;;Handelskai 343, 1020 Wien
+88.;Figls;Abend;;;;;6;6;true;Grinzinger Str. 55, 1190 Wien
+25.;Landtmann;Abend;;;;;5;5;true;Universitätsring 4, 1010 Wien
+27.;Chalet Möller;Abend;;;;;5;5;true;Amundsenstraße 5, 1140 Wien
+28.;Plachutta;Abend;;;;;5;5;true;Auhofstraße 1, 1130 Wien
+38.;Hiro;Abend;;;;;5;5;true;Seyringer Str. 6-8, 1210 Wien
+39.;Francesco 1130;Abend;;;;;5;5;true;Speisinger Str. 218, 1130 Wien
+42.;LeBurger;Abend;;;;;5;5;true;Albert-Schweitzer-Gasse 6, 1140 Wien
+44.;Burger's Bar;Abend;;;;;5;5;true;Vorgartenstraße 204, 1020 Wien
+51.;Eissalon Mauß;Eis;;;;;5;5;true;Thaliastraße 155, 1160 Wien
+52.;Schelato;Eis;;;;;5;5;true;1080, Lerchenfelder Str. 34, 1080 Wien
+87.;Feuerwehr Wagner;Abend;;;;;5;5;true;Grinzinger Str. 53, 1190 Wien
+94.;Klyo;Abend;;;;;5;5;true;Uraniastraße 1, 1010 Wien
+98.;Makom;Abend;;;;;5;5;false;Schottenfeldgasse 18, 1070 Wien
+99.;Robertos;Bar;;;;;5;5;true;Bauernmarkt 11-13, 1010 Wien
+2.;Noomi;Brunch;5;4;4;4;5;4,4;true;Hütteldorfer Str. 299, 1140 Wien
+110.;the bank;Abend;3;5;5;4,5;4,5;4,4;false;Bognergasse 4, 1010 Wien
+33.;Riva Pizzeria;Abend;4;4,5;4,5;4,5;4,5;4,4;true;Türkenstraße 27, 1090 Wien
+129.;Pizzeria Minante;Abend ;4;4,5;4,5;4;4;4,2;false;Siebensterngasse 5, 1070 Wien
+102.;Sneak In;Brunch;4;4;4,5;4;4;4,1;false;Siebensterngasse 12, 1070 Wien
+64.;Schutzhaus Schafsberg;Abend;4,5;4;4;4;4;4,1;true;Czartoryskigasse 190, 1170 Wien
+75.;das Fritz;Brunch;4;4;4,5;4;4;4,1;true;Seebad 1, 7121 Gemeinde Weiden am See
+80.;Die blaue Gans;Abend;3,5;4,5;4,5;4;4;4,1;true;Seepark Weiden, 7121 Gemeinde Weiden am See
+127.;Bio Cafe Blütezeit;Brunch;3;4;4;5;4;4;false;Laurenzerberg 1 11-15, 1010 Wien
+125.;Restaurant Rieger;Abend;4;4;4;4;4;4;true;Strohzogl 67, 3011 Irenental
+126.;Das Augustin;Brunch;4;4,5;4;3,5;4;4;true;Märzstraße 67, 1150 Wien
+1.;El Gaucho;Abend;2;4;4;5;5;4;true;Praterstraße 1, 1020 Wien
+115.;Neni Prater;Bar;4;4;4;4;4;4;true;Perspektivstr. 8, 1020 Wien
+103.;DAS1090;Abend;3,5;4;3,5;5;4;4;true;Bauernfeldpl. 2, 1090 Wien
+112.;Cafe Europa;Bar;5;3,5;3,5;4;4;4;false;Zollergasse 8, 1070 Wien
+26.;Klee am Hanslteich;Abend;4;4;4;4;4;4;true;Amundsenstraße 10, 1170 Wien
+57.;Hildebrandt Café ;Brunch;4;4;4;4;4;4;true;Laudongasse 15-19, 1080 Wien
+58.;BeiMir;Bar;3;4,5;4,5;4;4;4;true;Speckbachergasse 47, 1160 Wien
+66.;Neni Prater;Abend;4;4,5;4;3,5;4;4;true;Perspektivstr. 8, 1020 Wien
+114.;Ebi 10;Abend;4;3,5;4;4;4;3,9;true;Triester Str. 64, 1100 Wien
+113.;Lugeck - Figlmüller;Abend;3,5;4,5;4;3,5;4;3,9;false;Lugeck 4, 1010 Wien
+21.;Mae Aurel;Abend;3,5;4;4;4;4;3,9;true;Salzgries 3, 1010 Wien
+30.;das 57;Abend;3;4,5;4;4;4;3,9;true;DC Tower 1, Donau-City-Straße 7, 1220 Wien
+49.;Santos;Abend;3,5;4;4;4;4;3,9;true;Favoritenstraße 4/6, 1040 Wien
+56.;Lautentico;Abend;3,5;4;4;4;4;3,9;true;Grinzinger Allee 30, 1190 Wien
+62.;Mae Aurel;Brunch;4,5;4;3;4;4;3,9;true;Salzgries 3, 1010 Wien
+76.;Joma;Brunch;3;4,5;4;4;4;3,9;false;Hoher Markt 10, 1010 Wien
+91.;Stuwer;Abend;4;4,5;3,5;3,5;4;3,9;false;Stuwerstraße 47, 1020 Wien
+95.;Cafe Adlerhof;Brunch;4;3,5;4;4;4;3,9;false;Burggasse 51, 1070 Wien
+107.;Joma;Abend;3;4;4;4;4;3,8;true;Hoher Markt 10, 1010 Wien
+10.;Seven North;Abend;3;4;4;4;4;3,8;true;Schottenfeldgasse 74, 1070 Wien
+105.;Nautilus;Abend;3;4,5;3,5;4;4;3,8;true;Am, Naschmarkt 673, 1060 Wien
+20.;Alfredo;Abend;3,5;4;4;3,5;4;3,8;true;Steinbruchstraße 30, 1160 Wien
+63.;Das 1090;Brunch;4;4;3,5;3,5;4;3,8;true;Bauernfeldpl. 2, 1090 Wien
+65.;Hollerkoch;Abend;3;4;4;4;4;3,8;true;Gersthofer Str. 14, 1180 Wien
+69.;First Floor Bar;Bar;4;4;4;3;4;3,8;false;Seitenstettengasse 5, 1010 Wien
+82.;the Sign;Bar;3;4;4;4;4;3,8;true;Liechtensteinstraße 104/106, 1090 Wien
+85.;das Bootshaus;Abend;3;4;4;4;4;3,8;true;An der unteren Alten Donau 61, 1220 Wien
+92.;Sechser;Bar;2;3,5;5;4,5;4;3,8;false;Josefsplatz 6, 1010 Wien
+93.;Klyo;Brunch;3,5;4;4;3,5;4;3,8;true;Uraniastraße 1, 1010 Wien
+97.;Beaver Brewing Company;Abend;4;4;3,5;3,5;4;3,8;false;Liechtensteinstraße 69, 1090 Wien
+138.;Kleinod Prunkstück;Bar;2;4,5;4;4;4;3,7;;
+137.;Das Augustin;Abend;4;4;3;3,5;4;3,7;true;Märzstraße 67, 1150 Wien
+50.;Arnoldo;Eis;3;4;3,5;4;4;3,7;true;Hernalser Hauptstraße 145, 1170 Wien
+130.;BRASSERIE PALMENHAUS;Abend;3;3,5;4,5;4;3,5;3,7;true;Burggarten 1, 1010 Wien
+100.;Dogenhof;Abend;2,5;4;4;4;4;3,7;false;Praterstraße 70, 1020 Wien
+24.;Do&Co;Abend;2;4,5;4;4;4;3,7;false;Stephansplatz 12, 1010 Wien
+59.;Juwel;Bar;2,5;4;4;4;4;3,7;true;Taborstraße 1/3, 1020 Wien
+68.;Otto Yami;Abend;3;4;4;3,5;4;3,7;true;Otto-Bauer-Gasse 20, 1060 Wien
+86.;La Creperie;Abend;3;4;3,5;4;4;3,7;true;An der Oberen Alten Donau 6, 1210 Wien
+90.;Ofenloch;Abend;2,5;4;4;4;4;3,7;false;Kurrentgasse 8, 1010 Wien
+12.;Eduard;Brunch;3,5;4;4;3,5;3,5;3,7;true;Sparkassapl. 1, 1150 Wien
+16.;Blaustern;Brunch;4;4;3,5;3,5;3,5;3,7;true;Döblinger Gürtel 2, 1190 Wien
+48.;Prilisauer;Abend;3;4;4;4;3,5;3,7;true;Linzer Str. 423, 1140 Wien
+78.;Oben;Brunch;3,5;4;4;3,5;3,5;3,7;true;Urban-Loritz-Platz 2a, 1070 Wien
+83.;das Hütteldorfer;Abend;4,5;3,5;3,5;3,5;3,5;3,7;true;Linzer Str. 363, 1140 Wien
+32.;Disco Volante;Abend;4;4;2,5;3,5;4;3,6;true;Gumpendorfer Str. 98, 1060 Wien
+55.;Losteria;Abend;4;3,5;3,5;3;4;3,6;true;Albert-Schweitzer-Gasse 6, 1140 Wien
+67.;Schwedenplatz Eis;Eis;4;4;3;3;4;3,6;true;Franz-Josefs-Kai 17, 1010 Wien
+84.;Da Ferdinando;Abend;3;4;3,5;3,5;4;3,6;true;Hietzinger Hauptstraße 26, 1130 Wien
+96.;Meissl & Schadn;Abend;2;4;4;4;4;3,6;false;Schubertring 10-12, 1010 Wien
+18.;Francesco 1140;Abend;4;3,5;3,5;3,5;3,5;3,6;true;Linzer Str. 415, 1140 Wien
+37.;Brandauer;Abend;4;3,5;3,5;3,5;3,5;3,6;true;Heiligenstädter Str. 31, 1190 Wien
+74.;Café aumann;Abend;3;4;3,5;4;3,5;3,6;true;Aumannpl. 1, 1180 Wien
+15.;Mario Hietzing;Abend;2;4;4;3,5;4;3,5;true;Lainzer Str. 2, 1130 Wien
+89.;Wieninger am Nussberg;Bar;3;4;4;2,5;4;3,5;true;Eichelhofweg 125, 1190 Wien
+11.;Peter Pane;Abend;4;4;3;3;3,5;3,5;true;Mariahilfer Str. 127, 1060 Wien
+19.;LaMama;Abend;2,5;4;4;3,5;3,5;3,5;true;Hüttelbergstraße 46, 1140 Wien
+29.;Grünspann;Abend;3;4;3,5;3,5;3,5;3,5;true;Ottakringer Str. 266, 1160 Wien
+71.;Needle Vinyl Bar;Bar;3;4;3;4;3,5;3,5;false;Barnabitengasse 8, 1060 Wien
+77.;der Dachboden;Bar;3,5;4;3,5;3;3,5;3,5;true;Lerchenfelder Str. 1, 1070 Wien
+139.;Spelunke;Abend;2;4;3,5;3,5;4;3,4;;
+41.;Neni Naschmarkt;Brunch;3;4;3;3;4;3,4;true;Naschmarkt 510, 1060 Wien
+100.;Bar Campari ;Bar;2;4;4;3,5;3,5;3,4;true;Seitzergasse 6, 1010 Wien
+101.;Weinschenke;Abend;3;3,5;3;4;3,5;3,4;false;Siebensterngasse 31/III, 1070 Wien
+13.;Ulrich;Brunch;3;3,5;3,5;3,5;3,5;3,4;true;Sankt-Ulrichs-Platz 1, 1070 Wien
+17.;Yume ;Abend;3;4;3;3,5;3,5;3,4;true;Bergmillergasse 3, 1140 Wien
+31.;Regina Mageritha;Abend;2,5;4;3,5;3,5;3,5;3,4;false;Wallnerstraße 4, 1010 Wien
+40.;Neni Naschmarkt;Abend;3,5;4;3;3;3,5;3,4;true;Naschmarkt 510, 1060 Wien
+61.;Lamee;Bar;2,5;3,5;4;3,5;3,5;3,4;false;Rotenturmstraße 15, 1010 Wien
+4.;Motto am Fluss;Brunch;3;4;4;3;3;3,4;false;Franz-Josefs-Kai 2 EG, 1010 Wien
+53.;Zanoni;Eis;3;4;3;4;3;3,4;false;Lugeck 7, 1010 Wien
+6.;Ebi 3;Abend;3;4;4;3;3;3,4;true;Erdberger Lände 26/4/Ebi, 1030 Wien
+9.;Matuya;Abend;4;3;3;4;3;3,4;true;Albert-Schweitzer-Gasse 6, 1140 Wien
+101.;Roberts alt sieveringer;Abend;3;3;3;4;3,5;3,3;true;Sieveringer Str. 63, 1190 Wien
+35.;Luftburg;Abend;3;3,5;3,5;3;3,5;3,3;true;Prater, Waldsteingartenstraße 128, 1020 Wien
+54.;Freiraum;Abend;3;3,5;3;3,5;3,5;3,3;false;Mariahilfer Str. 117, 1060 Wien
+70.;Manameierei;Brunch;2;4;4;3;3,5;3,3;true;Exelbergstraße 32, 1170 Wien
+79.;Waldemar;Brunch;2,5;3,5;3,5;3,5;3,5;3,3;true;Altgasse 6, 1130 Wien
+14.;Erich;Abend;2,5;3;3,5;3,5;3,5;3,2;true;Neustiftgasse 27, 1070 Wien
+23.;Fuhrgasslhuber;Abend;3;4;4;2;3;3,2;true;Neustift am Walde 68, 1190 Wien
+46.;Saloon;Abend;3,5;3;3;3,5;3;3,2;true;Wagramer Str. 79, 1220 Wien
+22.;Schutzhaus Schmelz;Abend;4;2,5;3;3;3;3,1;true;verlängerte Guntherstraße, 1150 Wien
+72.;Wirr am brunnenmarkt;Abend;3;3;3,5;3;3;3,1;false;Yppenmarkt, 1160 Wien
+34.;Schweizerhaus;Abend;2,5;3,5;3;2,5;3,5;3;true;Prater 116, 1020 Wien
+104.;Ulrich;Abend;4;2,5;3;2,5;3;3;false;Sankt-Ulrichs-Platz 1, 1070 Wien
+36.;leopoldauer Alm;Abend;3,5;2,5;2,5;3,5;3;3;true;Wagramer Str. 205, 1210 Wien
+5.;Ebi 1;Abend;3;3;4;2;3;3;true;Teinfaltstraße 9, 1010 Wien
+73.;Max & benito;Abend;3;4;3;2;3;3;true;Mariahilfer Str. 4, 1070 Wien
+45.;Five Guys;Abend;2;3,5;3;3;3;2,9;false;Graben 30, 1010 Wien
+47.;Kahlenberg;Abend;2;3;3,5;3;3;2,9;true;Am Kahlenberg 2-3, 1190 Wien
+60.;Motto am Fluss;Bar;2,5;3;3;3;3;2,9;false;Franz-Josefs-Kai 2 EG, 1010 Wien
+8.;Ebi 21;Abend;3;3;2;3,5;3;2,9;true;Leopoldauer Str. 45-47, 1210 Wien
+106.;Spumante;Abend;4;3;2;2;3;2,8;true;Gersthofer Str. 71, 1180 Wien
+3.;Motto am Fluss;Abend;2;3;3;3;3;2,8;false;Franz-Josefs-Kai 2 EG, 1010 Wien
+7.;Ebi 7;Abend;3;3;2;3;3;2,8;true;Mariahilfer Str. 112, 1070 Wien
+43.;WikiBowl;Abend;2,5;2,5;3;2,5;3;2,7;true;Wipplingerstraße 21, 1010 Wien
+81.;Josef II;Abend;3;3;3;1,5;2,5;2,6;false;Schönbrunner Schloßstraße 47, 1130 Wien
