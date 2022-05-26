@@ -10,10 +10,8 @@ app.use((req, res, next) => {
   next()
 })
 
-
-app.use(express.static(__dirname + '/dist/show-restaurants-from-excel'));
+app.use(express.static(__dirname + '/dist/restaurants-austria'));
 app.get('/*', function(req,res) {
-  res.sendFile(path.join(__dirname+'/dist/show-restaurants-from-excel/index.html'));
+  res.sendFile(path.join(__dirname+'/dist/restaurants-austria/index.html'));
 });
-
 app.listen(process.env.PORT || 8080);
